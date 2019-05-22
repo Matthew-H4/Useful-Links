@@ -2,3 +2,4 @@ https://javascript.info/first-steps
 
 https://javascript.info/function-basics
 
+https://htmlcheatsheet.com/js/
