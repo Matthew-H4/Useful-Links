@@ -1,0 +1,4 @@
+https://javascript.info/first-steps
+
+https://javascript.info/function-basics
+
