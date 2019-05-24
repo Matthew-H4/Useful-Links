@@ -3,3 +3,7 @@ https://javascript.info/first-steps
 https://javascript.info/function-basics
 
 https://htmlcheatsheet.com/js/
+
+https://medium.com/@js_tut/new-things-css-grid-brings-to-the-table-e465cb5d2841
+
+
