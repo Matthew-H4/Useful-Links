@@ -4,4 +4,10 @@ https://javascript.info/function-basics
 
 https://htmlcheatsheet.com/js/
 
+<<<<<<< HEAD
 https://codepen.io/
+=======
+https://medium.com/@js_tut/new-things-css-grid-brings-to-the-table-e465cb5d2841
+
+
+>>>>>>> 2d629756ce8836f5353edbbd15b7c8c295465515
