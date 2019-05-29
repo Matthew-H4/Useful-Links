@@ -22,3 +22,11 @@ https://john-dugan.com/javascript-functions-vs-methods/
 
 
 ]
+
+Links for arrow functions
+[
+https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc
+
+
+
+]
