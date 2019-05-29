@@ -9,3 +9,16 @@ https://codepen.io/
 https://medium.com/@js_tut/new-things-css-grid-brings-to-the-table-e465cb5d2841
 
 https://www.freecodecamp.org/
+
+
+
+Links for function vs method 
+[
+https://www.quora.com/What-is-the-difference-between-a-method-and-a-function-in-JavaScript
+
+	https://www.quora.com/What-does-this-mean-in-Javascript/answer/Manish-Dipankar-1?share=1&srid=X7KE
+
+https://john-dugan.com/javascript-functions-vs-methods/
+
+
+]
