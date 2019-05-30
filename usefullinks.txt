@@ -31,13 +31,15 @@ https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc
 
 ]
 
-Links for nom
+Links for npm
 [
 https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
 
 https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off
 
 https://nodesource.com/blog/seven-more-npm-tricks-to-knock-your-wombat-socks-off
+
+https://docs.npmjs.com/cli/install
 
 
 ]
@@ -51,4 +53,6 @@ https://expressjs.com/en/api.html
 https://www.youtube.com/watch?v=gnsO8-xJ8rs
 
 https://www.youtube.com/watch?v=L72fhGm1tfE
+
+https://simpleprogrammer.com/top-4-javascript-concepts-a-node-js-beginner-must-know/
 ]
