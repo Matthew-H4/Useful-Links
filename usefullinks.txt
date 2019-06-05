@@ -68,6 +68,8 @@ Links for SQL
 [
 https://dev.mysql.com/doc/workbench/en/
 
+https://expressjs.com/en/guide/database-integration.html#mysql
+
 
 
 
