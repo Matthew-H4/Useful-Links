@@ -62,3 +62,14 @@ https://www.youtube.com/watch?v=PoRJizFvM7s
 
 
 ]
+
+
+Links for SQL 
+[
+https://dev.mysql.com/doc/workbench/en/
+
+
+
+
+
+]
