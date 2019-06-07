@@ -70,6 +70,15 @@ https://dev.mysql.com/doc/workbench/en/
 
 https://expressjs.com/en/guide/database-integration.html#mysql
 
+https://www.youtube.com/watch?v=K6w0bZjl_Lw
+
+
+
+]
+
+Web scraping links 
+[
+https://blog.bitsrc.io/https-blog-bitsrc-io-how-to-perform-web-scraping-using-node-js-5a96203cb7cb
 
 
 
