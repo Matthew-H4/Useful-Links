@@ -72,7 +72,8 @@ https://expressjs.com/en/guide/database-integration.html#mysql
 
 https://www.youtube.com/watch?v=K6w0bZjl_Lw
 
-
+Pooling and createpool
+https://github.com/mysqljs/mysql#pooling-connections
 
 ]
 
