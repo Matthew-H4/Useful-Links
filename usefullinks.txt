@@ -84,7 +84,7 @@ https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 https://www.npmjs.com/package/jssoup
 
-
+https://hackernoon.com/cheerio-node-nodejs-tutorial-web-html-scraping-note-a4ceb37d9cbb
 
 
 ]
@@ -92,5 +92,13 @@ https://www.npmjs.com/package/jssoup
 Learning about APIs
 [
 https://www.youtube.com/watch?v=cpRcK4GS068
+
+]
+
+HTTP methods
+[
+https://www.tutorialspoint.com/http/http_methods.htm
+
+https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them
 
 ]
