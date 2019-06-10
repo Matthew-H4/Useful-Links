@@ -80,7 +80,17 @@ Web scraping links
 [
 https://blog.bitsrc.io/https-blog-bitsrc-io-how-to-perform-web-scraping-using-node-js-5a96203cb7cb
 
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+https://www.npmjs.com/package/jssoup
 
 
+
+
+]
+
+Learning about APIs
+[
+https://www.youtube.com/watch?v=cpRcK4GS068
 
 ]
