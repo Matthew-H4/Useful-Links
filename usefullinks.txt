@@ -60,6 +60,9 @@ https://simpleprogrammer.com/top-4-javascript-concepts-a-node-js-beginner-must-k
 
 https://www.youtube.com/watch?v=PoRJizFvM7s
 
+Environmental variables in node.js
+	https://medium.com/@maxbeatty/environment-variables-in-node-js-28e951631801
+
 
 ]
 
@@ -101,5 +104,16 @@ HTTP methods
 https://www.tutorialspoint.com/http/http_methods.htm
 
 https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them
+
+]
+
+Hiroku
+[
+https://www.heroku.com/home
+
+heroku database hosting 
+	https://elements.heroku.com/addons/cleardb
+
+	https://devcenter.heroku.com/articles/cleardb
 
 ]
