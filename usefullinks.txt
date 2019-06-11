@@ -88,6 +88,10 @@ https://www.youtube.com/watch?v=PoRJizFvM7s
 Environmental variables in node.js
 	https://medium.com/@maxbeatty/environment-variables-in-node-js-28e951631801
 
+API
+https://www.codementor.io/julieisip/learn-rest-api-using-express-js-and-mysql-db-ldflyx8g2
+
+
 
 ]
 
