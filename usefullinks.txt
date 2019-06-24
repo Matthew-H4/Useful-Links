@@ -40,8 +40,23 @@ https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc
 ]
 
 
+JavaScript
+[
+Asyc
+https://www.youtube.com/watch?v=PoRJizFvM7s
+
+Higher Order Functions
+https://www.youtube.com/watch?v=rRgD1yVwIvE
+
+Switch Cases
+https://www.freecodecamp.org/news/introduction-to-javascript-switch-cases/
+
+Manipulate Arrays
+https://www.freecodecamp.org/news/manipulating-arrays-in-javascript/
 
 
+
+]
 
 
 
@@ -170,6 +185,13 @@ heroku database hosting
 Git tutorials
 [
 https://www.tutorialspoint.com/git/index.htm
+
+
+]
+
+React
+[
+https://www.youtube.com/playlist?list=PLDyQo7g0_nsVHmyZZpVJyFn5ojlboVEhE
 
 
 ]
