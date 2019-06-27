@@ -105,6 +105,8 @@ https://www.youtube.com/watch?v=PoRJizFvM7s
 Environmental variables in node.js
 	https://medium.com/@maxbeatty/environment-variables-in-node-js-28e951631801
 
+
+
 API
 https://www.codementor.io/julieisip/learn-rest-api-using-express-js-and-mysql-db-ldflyx8g2
 
@@ -129,6 +131,10 @@ Pooling and createpool
 https://github.com/mysqljs/mysql#pooling-connections
 
 ]
+
+
+
+
 
 Web scraping links 
 [
@@ -184,6 +190,8 @@ heroku database hosting
 
 ]
 
+
+
 Git tutorials
 [
 https://www.tutorialspoint.com/git/index.htm
@@ -191,9 +199,20 @@ https://www.tutorialspoint.com/git/index.htm
 
 ]
 
+
+
 React
 [
 https://www.youtube.com/playlist?list=PLDyQo7g0_nsVHmyZZpVJyFn5ojlboVEhE
+
+
+]
+
+
+CSS flex box
+[
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
 
 
 ]
