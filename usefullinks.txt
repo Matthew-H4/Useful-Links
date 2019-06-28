@@ -205,6 +205,7 @@ React
 [
 https://www.youtube.com/playlist?list=PLDyQo7g0_nsVHmyZZpVJyFn5ojlboVEhE
 
+https://scrimba.com/g/glearnreact
 
 ]
 
@@ -221,4 +222,7 @@ JS Classes
 [
 https://overreacted.io/why-do-we-write-super-props/
 
+https://scrimba.com/p/p4Mrt9/cQnMDHD
+
 ]
+
