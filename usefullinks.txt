@@ -196,6 +196,9 @@ Git tutorials
 [
 https://www.tutorialspoint.com/git/index.htm
 
+https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
+
+
 
 ]
 
