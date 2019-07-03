@@ -244,3 +244,23 @@ https://mherman.org/blog/local-authentication-with-passport-and-express-4/
 
 ]
 
+React app with express backend 
+[
+
+https://dev.to/nburgess/creating-a-react-app-with-react-router-and-an-express-backend-33l3
+
+]
+
+MongoDB
+[
+
+https://docs.mongodb.com/manual/introduction/
+
+]
+
+MERN stack
+[
+
+https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE&index=1
+
+]
