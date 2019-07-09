@@ -264,3 +264,11 @@ MERN stack
 https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE&index=1
 
 ]
+
+
+BodyParser
+[
+
+https://medium.com/@adamzerner/how-bodyparser-works-247897a93b90
+
+]
