@@ -272,3 +272,10 @@ BodyParser
 https://medium.com/@adamzerner/how-bodyparser-works-247897a93b90
 
 ]
+
+Twitter Bot 
+[
+
+https://www.windows-commandline.com/open-text-file-from-command-line/
+
+]
