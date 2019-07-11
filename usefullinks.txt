@@ -286,3 +286,10 @@ Class vs Prototypal inheritance
 https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
 
 ]
+
+Fetch API to GET and POST
+[
+
+https://dev.to/dev_amaz/using-fetch-api-to-get-and-post--1g7d
+
+]
