@@ -293,3 +293,10 @@ Fetch API to GET and POST
 https://dev.to/dev_amaz/using-fetch-api-to-get-and-post--1g7d
 
 ]
+
+React Native
+[
+
+https://facebook.github.io/react-native/docs/getting-started
+
+]
