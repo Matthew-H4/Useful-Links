@@ -300,3 +300,10 @@ React Native
 https://facebook.github.io/react-native/docs/getting-started
 
 ]
+
+JS api request documentation
+[
+
+https://developer.mozilla.org/en-US/docs/Web/API/Request
+
+]
