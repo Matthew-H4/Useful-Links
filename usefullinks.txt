@@ -314,3 +314,10 @@ Build RESTful Api
 https://codeburst.io/building-a-rest-api-using-mongo-db-75cac3403fab
 
 ]
+
+12 factor app methodology
+[
+
+https://12factor.net/
+
+]
