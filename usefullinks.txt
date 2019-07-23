@@ -321,3 +321,11 @@ https://codeburst.io/building-a-rest-api-using-mongo-db-75cac3403fab
 https://12factor.net/
 
 ]
+
+
+User Authentication and cookie storage
+[
+
+https://www.linkedin.com/pulse/nodejs-user-session-management-web-applications-using-harshad-bankar
+
+]
