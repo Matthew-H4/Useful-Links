@@ -323,9 +323,25 @@ https://12factor.net/
 ]
 
 
-User Authentication and cookie storage
+User Authentication
 [
 
 https://www.linkedin.com/pulse/nodejs-user-session-management-web-applications-using-harshad-bankar
+
+https://www.youtube.com/watch?v=6FOq4cUdH8k
+
+https://www.npmjs.com/package/cookie-parser
+
+https://github.com/expressjs/session
+
+https://medium.com/@faizanv/authentication-for-your-react-and-express-application-w-json-web-tokens-923515826e0
+
+https://stormpath.com/blog/token-authentication-scalable-user-mgmt?source=post_page---------------------------
+
+https://www.freecodecamp.org/forum/t/handling-passportjs-authenticated-user-in-the-front-end/75913
+
+https://medium.com/lightrail/getting-token-authentication-right-in-a-stateless-single-page-application-57d0c6474e3
+
+
 
 ]
