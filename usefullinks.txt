@@ -28,6 +28,14 @@ https://john-dugan.com/javascript-functions-vs-methods/
 ]
 
 
+Early Tic Tac Toe website w/ html element creation
+[
+
+https://www.thatsoftwaredude.com/content/6189/coding-tic-tac-toe-in-javascript
+
+]
+
+
 
 
 
@@ -346,6 +354,9 @@ https://www.freecodecamp.org/forum/t/handling-passportjs-authenticated-user-in-t
 
 https://medium.com/lightrail/getting-token-authentication-right-in-a-stateless-single-page-application-57d0c6474e3
 
+https://dzone.com/articles/cookies-vs-tokens-the-definitive-guide
+
+https://auth0.com/docs/design/web-apps-vs-web-apis-cookies-vs-tokens
 
 
 ]
