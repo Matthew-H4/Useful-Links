@@ -369,3 +369,10 @@ https://expressjs.com/en/starter/basic-routing.html
 https://expressjs.com/en/guide/routing.html
 
 ]
+
+Learning Data Analytics 
+[
+
+https://www.linkedin.com/learning/learning-data-analytics-2/welcome?autoplay=true&trk=course_preview&upsellOrderOrigin=trk_default_learning
+
+]
