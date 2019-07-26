@@ -384,3 +384,17 @@ Understanding the DOM
 https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom
 
 ]
+
+Observables
+[
+
+https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87
+
+]
+
+MVC Pattern
+[
+
+https://www.youtube.com/watch?v=pCvZtjoRq1I
+
+]
