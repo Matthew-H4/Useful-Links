@@ -376,3 +376,11 @@ Learning Data Analytics
 https://www.linkedin.com/learning/learning-data-analytics-2/welcome?autoplay=true&trk=course_preview&upsellOrderOrigin=trk_default_learning
 
 ]
+
+
+Understanding the DOM
+[
+
+https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom
+
+]
