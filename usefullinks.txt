@@ -405,3 +405,10 @@ Git Links
 https://hackernoon.com/git-push-and-pull-tips-and-tricks-7f9163539f02
 
 ]
+
+Modify Attributes, Classes, and Styles in the DOM
+[
+
+https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom
+
+]
