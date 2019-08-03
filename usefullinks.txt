@@ -412,3 +412,17 @@ Modify Attributes, Classes, and Styles in the DOM
 https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom
 
 ]
+
+Regex
+[
+
+https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
+
+]
+
+Hack this site
+[
+
+https://www.hackthissite.org/
+
+]
