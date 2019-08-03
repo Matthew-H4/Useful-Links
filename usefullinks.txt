@@ -377,9 +377,89 @@ https://www.linkedin.com/learning/learning-data-analytics-2/welcome?autoplay=tru
 
 ]
 
+<<<<<<< HEAD
 When to use the button element 
 [
 
 https://css-tricks.com/use-button-element/
+=======
+
+Understanding the DOM
+[
+
+https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom
+
+]
+
+Observables
+[
+
+https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87
+
+]
+
+MVC Pattern
+[
+
+https://www.youtube.com/watch?v=pCvZtjoRq1I
+
+]
+
+Git Links
+[
+
+https://hackernoon.com/git-push-and-pull-tips-and-tricks-7f9163539f02
+
+]
+
+Modify Attributes, Classes, and Styles in the DOM
+[
+
+https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom
+
+]
+
+Regex
+[
+
+https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
+
+]
+
+Hack this site
+[
+
+https://www.hackthissite.org/
+
+]
+
+Typescript
+[
+
+Fireship Typescript the basics
+https://www.youtube.com/watch?v=ahCwqrYpIuM
+
+Traversy Typescript
+https://www.youtube.com/watch?v=rAy_3SIqT-E
+
+]
+
+AngularJS
+[
+
+https://angular.io/
+
+Pipes
+https://angular.io/guide/pipes
+
+]
+
+This keyword
+[
+
+https://hackernoon.com/understanding-javascript-the-this-keyword-4de325d77f68
+
+https://medium.com/quick-code/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8
+>>>>>>> 2c12a07619d7e9f0efcb23480e755a9f7a955b79
 
 ]
