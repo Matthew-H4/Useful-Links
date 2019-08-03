@@ -437,3 +437,13 @@ Traversy Typescript
 https://www.youtube.com/watch?v=rAy_3SIqT-E
 
 ]
+
+AngularJS
+[
+
+https://angular.io/
+
+Pipes
+https://angular.io/guide/pipes
+
+]
