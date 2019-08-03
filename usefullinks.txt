@@ -426,3 +426,14 @@ Hack this site
 https://www.hackthissite.org/
 
 ]
+
+Typescript
+[
+
+Fireship Typescript the basics
+https://www.youtube.com/watch?v=ahCwqrYpIuM
+
+Traversy Typescript
+https://www.youtube.com/watch?v=rAy_3SIqT-E
+
+]
