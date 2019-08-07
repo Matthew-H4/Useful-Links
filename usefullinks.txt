@@ -485,3 +485,21 @@ https://www.tjvantoll.com/2015/09/13/fetch-and-errors/
 https://medium.com/cameron-nokes/4-common-mistakes-front-end-developers-make-when-using-fetch-1f974f9d1aa1
 
 ]
+
+Running Scripts in OSX menu bar
+[
+
+https://getbitbar.com/
+
+] 
+
+Spread Operator
+[
+
+https://zendev.com/2018/05/09/understanding-spread-operator-in-javascript.html
+
+https://davidwalsh.name/spread-operator
+
+https://www.youtube.com/watch?v=1INe_jCWq1Q
+
+]
