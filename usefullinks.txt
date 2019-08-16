@@ -410,6 +410,8 @@ Git Links
 
 https://hackernoon.com/git-push-and-pull-tips-and-tricks-7f9163539f02
 
+https://stackoverflow.com/questions/1519006/how-do-you-create-a-remote-git-branch
+
 ]
 
 Modify Attributes, Classes, and Styles in the DOM
