@@ -485,3 +485,12 @@ https://www.tjvantoll.com/2015/09/13/fetch-and-errors/
 https://medium.com/cameron-nokes/4-common-mistakes-front-end-developers-make-when-using-fetch-1f974f9d1aa1
 
 ]
+
+App Icon Design
+[
+
+https://logosbynick.com/AppIconStyleGuide.pdf
+
+https://logosbynick.com/sizes-guidelines-for-designing-app-icons-ios-andr
+
+]
