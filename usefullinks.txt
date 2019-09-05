@@ -548,3 +548,10 @@ Anchors vs Buttons
 https://bitsofco.de/anchors-vs-buttons/
 
 ]
+
+Angular Directives 
+[
+
+https://www.sitepoint.com/practical-guide-angular-directives/ 
+
+]
