@@ -562,3 +562,10 @@ Angular Passing data between nested components
 https://dev.to/chiangs/passing-data-between-nested-components-with-angular-50cm
 
 ]
+
+TypeScript Classes vs Interface
+[
+
+https://jameshenry.blog/typescript-classes-vs-interfaces/
+
+]
