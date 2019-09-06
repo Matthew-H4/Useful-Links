@@ -555,3 +555,10 @@ Angular Directives
 https://www.sitepoint.com/practical-guide-angular-directives/ 
 
 ]
+
+Angular Passing data between nested components
+[
+
+https://dev.to/chiangs/passing-data-between-nested-components-with-angular-50cm
+
+]
