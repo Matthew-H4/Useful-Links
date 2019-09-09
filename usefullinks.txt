@@ -569,3 +569,10 @@ TypeScript Classes vs Interface
 https://jameshenry.blog/typescript-classes-vs-interfaces/
 
 ]
+
+Managing State in Angular Applications
+[
+
+https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f
+
+]
