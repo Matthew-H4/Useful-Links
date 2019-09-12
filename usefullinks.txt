@@ -576,3 +576,14 @@ Managing State in Angular Applications
 https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f
 
 ]
+
+Unit Testing and Test Driven Development
+[
+
+https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters
+
+https://technologyconversations.com/2013/12/20/test-driven-development-tdd-example-walkthrough/
+
+
+
+]
