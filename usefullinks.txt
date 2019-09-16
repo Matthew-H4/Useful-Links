@@ -587,3 +587,10 @@ https://technologyconversations.com/2013/12/20/test-driven-development-tdd-examp
 
 
 ]
+
+Change npm global install directory
+[
+
+https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
+
+]
