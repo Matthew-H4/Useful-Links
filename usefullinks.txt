@@ -594,3 +594,10 @@ Change npm global install directory
 https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
 
 ]
+
+kill process on certain port
+[
+
+https://stackoverflow.com/questions/39632667/how-to-kill-the-process-currently-using-a-port-on-localhost-in-windows?rq=1
+
+]
