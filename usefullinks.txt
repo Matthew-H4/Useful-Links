@@ -601,3 +601,10 @@ kill process on certain port
 https://stackoverflow.com/questions/39632667/how-to-kill-the-process-currently-using-a-port-on-localhost-in-windows?rq=1
 
 ]
+
+Angular/NGRX/Firebase
+[
+
+https://itnext.io/3-common-mistakes-when-using-angular-ngrx-firebase-9de4e241d866
+
+]
